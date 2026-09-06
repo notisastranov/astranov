@@ -8,7 +8,7 @@
       "headers": [
         { "key": "Cache-Control", "value": "no-store, no-cache, must-revalidate" },
         { "key": "Pragma", "value": "no-cache" },
-        { "key": "X-Astranov-Build", "value": "4080" },
+        { "key": "X-Astranov-Build", "value": "4155" },
         { "key": "Content-Security-Policy", "value": "frame-ancestors 'self' https://astranov.eu https://*.astranov.eu https://investors.astranov.eu https://exchange.astranov.eu" }
       ]
     },
@@ -17,7 +17,7 @@
       "headers": [
         { "key": "Cache-Control", "value": "no-store, no-cache, must-revalidate" },
         { "key": "Pragma", "value": "no-cache" },
-        { "key": "X-Astranov-Build", "value": "4080" },
+        { "key": "X-Astranov-Build", "value": "4155" },
         { "key": "Content-Security-Policy", "value": "frame-ancestors 'self' https://astranov.eu https://*.astranov.eu https://investors.astranov.eu https://exchange.astranov.eu" }
       ]
     },
